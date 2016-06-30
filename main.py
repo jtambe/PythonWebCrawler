@@ -6,7 +6,7 @@ from general import  *
 
 # constants are in caps as convention but no keyword as const
 PROJECT_NAME = 'WebCrawlerDirectory'
-HOMEPAGE = 'https://www.linkedin.com/'
+HOMEPAGE = 'https://facebook.com/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME +  '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
